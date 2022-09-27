@@ -1,2 +1,2 @@
 git config --global user.name "786-UZMAFE"
-git config --global user.password "786@uzma"
+git config --global user.password "My github password"
